@@ -31,7 +31,7 @@ public class CreateContactPage {
 	private WebElement saveButton;
 
 	// Initialization
-	public CreateContactPage(WebDriver driver) {
+	 public CreateContactPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 	}
 
