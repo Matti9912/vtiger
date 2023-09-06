@@ -17,7 +17,7 @@ public class JavaUtility {
 	/**
 	 * This method generate random number
 	 * 
-	 * @param limit
+	  * @param limit
 	 * @return
 	 */
 	public int generateRandomNumber(int limit) {

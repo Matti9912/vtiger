@@ -14,7 +14,7 @@ import java.util.Properties;
 public class PropertiesFileUtility {
 	
 	private Properties property;
-	/**
+	 /**
 	 * This method is used to initialize Properties file
 	 * @param path
 	 */
